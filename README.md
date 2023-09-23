@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**hizpro/hizpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web application developer and I do my work on Linux.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on exciting projects
+- 🌱 Always learning and staying updated with the latest in web development
+- 👯 Open to collaborating on impactful open-source endeavors
+- 💬 Feel free to ask me anything about web development or tech in general
+- 📫 Reach me at: [hz1080900@outlook.com](mailto:hz1080900@outlook.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a bit of a code neat freak – it's like my coding zen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s connect and collaborate on some exciting web projects! 😊
