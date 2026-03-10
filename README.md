@@ -1,6 +1,6 @@
 # 🏛️ hizpro | Senior Backend Engineer
 
-I am a veteran developer who believes that **Code is Truth**. My philosophy is simple: *Clean the inside of the cup first.* I build high-performance systems with integrity, transparency, and a relentless focus on accuracy.
+I am a developer who believes that **Code is Truth**. My philosophy is simple: *Clean the inside of the cup first.* I build high-performance systems with integrity, transparency, and a relentless focus on accuracy.
 
 ---
 
