@@ -9,7 +9,7 @@
 
 ![Code Style: Black](https://img.shields.io/badge/Code_Style-Black-000000.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Integrity](https://img.shields.io/badge/Integrity-Nehemiah_9:33-FFD700.svg)
+
 
 </div>
 # 🏛️ hizpro | Senior Backend Engineer
