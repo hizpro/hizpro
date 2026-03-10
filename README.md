@@ -6,7 +6,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3.11%2B-blue.svg?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-High_Performance-005571?logo=fastapi)
 ![Architecture](https://img.shields.io/badge/Architecture-100%25_Async-8A2BE2.svg)
-
+![Golang](https://img.shields.io/badge/Go-High_Concurrency-00ADD8?logo=go&logoColor=white)
 ![Code Style: Black](https://img.shields.io/badge/Code_Style-Black-000000.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
